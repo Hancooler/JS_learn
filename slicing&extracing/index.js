@@ -1,0 +1,1 @@
+alert(prompt("compose your tweet:").slice(0,140));
