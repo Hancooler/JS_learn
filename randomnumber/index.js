@@ -1,4 +1,10 @@
-var n = Math.random();
-n = n * 6;
-n = Math.floor(n) + 1;
-console.log(n); // Output: 0.123456789
+prompt("what is your name?");
+prompt("what is their name?");
+
+
+var loveScore = Math.random() * 100;
+
+
+loveScore = Math.floor(loveScore) + 1;
+alert("Your love score is " + loveScore + "%");
+
